@@ -27,9 +27,9 @@ The planned **three-hour instructional program** covers:
 | I | Why static NLP systems are no longer enough | 20 min |
 | II | Foundations: never-ending, lifelong, and continual learning | 30 min |
 | III | What a self-improving language agent learns | 35 min |
-| IV | Design patterns for learning after deployment | 35 min |
+| IV | Case studies | 35 min |
 | V | Evaluation, governance, and reliability under change | 30 min |
-| VI | Worked example and case studies | 20 min |
+| VI | Design patterns for learning after deployment | 20 min |
 | VII | Open research problems and discussion | 10 min |
 
 The conference reserves a 14:00–17:30 slot; the above segments total 180 minutes of instruction. The detailed agenda, including breaks, is subject to the final session schedule. See [the expanded outline](docs/outline.md).
