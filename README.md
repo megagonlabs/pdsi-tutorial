@@ -40,7 +40,7 @@ This repository is the evolving home for the tutorial.
 
 - [Expanded outline](docs/outline.md) — topics and learning outcomes
 - [Selected reading list](docs/reading-list.md) — foundational and recent literature
-- [**Slides**]((slides/pdsi-tutorial-aacl2026.pdf)) — PDF of the tutorial slides
+- [**Slides**](slides/pdsi-tutorial-aacl2026.pdf) — PDF of the tutorial slides
 <!--
 - [Worked example](examples/README.md) — 
 GitHub Pages -->
