@@ -8,7 +8,7 @@
 **When:** Monday, November 9, 2026 · 14:00–17:30 (China Standard Time, UTC+8)  
 **Where:** Muhe Hall C · Hengqin, China
 
-[**Slides**](https://github.com/megagonlabs/pdsi-tutorial/blob/main/slides/Post-Deployment%20Self-Improving%20Language%20Agents%20AACL-IJCNLP%202026%20Tutorial.pdf) ·  [**Official tutorial abstract**](https://aclanthology.org/2026.aacl-tutorials.4/) · [**AACL2026 tutorial program**](https://2026.aaclnet.org/program/tutorials/) 
+[**Slides**](slides/pdsi-tutorial-aacl2026.pdf) ·  [**Official tutorial abstract**](https://aclanthology.org/2026.aacl-tutorials.4/) · [**AACL2026 tutorial program**](https://2026.aaclnet.org/program/tutorials/) 
 
 ## About this tutorial
 
@@ -40,7 +40,7 @@ This repository is the evolving home for the tutorial.
 
 - [Expanded outline](docs/outline.md) — topics and learning outcomes
 - [Selected reading list](docs/reading-list.md) — foundational and recent literature
-- [Slides](slides/README.md) — slides will be linked or added here when available
+- [**Slides**]((slides/pdsi-tutorial-aacl2026.pdf)) — PDF of the tutorial slides
 <!--
 - [Worked example](examples/README.md) — 
 GitHub Pages -->
