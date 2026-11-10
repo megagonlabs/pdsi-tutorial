@@ -8,7 +8,7 @@
 **When:** Monday, November 9, 2026 · 14:00–17:30 (China Standard Time, UTC+8)  
 **Where:** Muhe Hall C · Hengqin, China
 
-[**Official tutorial abstract**](https://aclanthology.org/2026.aacl-tutorials.4/) · [**AACL2026 tutorial program**](https://2026.aaclnet.org/program/tutorials/) 
+[**Slides**](https://github.com/megagonlabs/pdsi-tutorial/blob/main/slides/Post-Deployment%20Self-Improving%20Language%20Agents%20AACL-IJCNLP%202026%20Tutorial.pdf) ·  [**Official tutorial abstract**](https://aclanthology.org/2026.aacl-tutorials.4/) · [**AACL2026 tutorial program**](https://2026.aaclnet.org/program/tutorials/) 
 
 ## About this tutorial
 
